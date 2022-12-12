@@ -1,4 +1,3 @@
-import unittest
 import kalkulator
 
 # W przypadku nie przejścia poprawnie przez wszystkie testy otrzymamy błąd AssertionError
